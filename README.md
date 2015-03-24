@@ -17,3 +17,12 @@ As the code of conduct should be updated for each new event (i.e. Emergency cont
 ```
 2015-05-phptour-luxembourg
 ```
+
+### Structure of document
+
+The following decisions have been made:
+
+* Starting with an introduction of AFUP's state of mind regarding its tech events. As you just read, **they are tech events** thus they don't need to be tinted with any personal points of view regarding unrelated topics that can be mean to others. We aim at broadcasting our events at the majority interested in PHP like, for example, minors.
+* Presenting a short version of the code of conduct, showing quickly its purpose.
+* Showing Emergency contacts just after to place them up, well exposed for quick accessibility.
+* Writing the full code of conduct for complete procedure.
