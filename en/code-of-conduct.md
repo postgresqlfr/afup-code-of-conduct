@@ -11,14 +11,16 @@ AFUP events are dedicated to providing a harassment-free conference experience f
 Our anti-harassment policy can be found at:
 http://afup.org/code-of-conduct
 
-## Emergency Contacts
-* AFUP email address: bureau@afup.org :warning:
-* AFUP phone number (president): :warning:
+## Emergency Contacts during events
+* AFUP will publish phone number and email when the event will start !
 * Abbey of Neumünster Cultural Exchange Center (CCRN):	+352 / 26 20 52 – 1
 * Police Grand-Ducale: 113
 * Women in Distress: 0808 802 9999
 * Medical emergency: 112
 * Taxis: + 352 621 693 014
+
+## Contact 
+Before the event, for any question about the code of conduct please send an email to contact@afup.org.
 
 ## The Longer Version
 
