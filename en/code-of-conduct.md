@@ -1,6 +1,7 @@
 # AFUP's code of conduct
 
-AFUP is an organization dedicated to networking and collaboration in the PHP developer community.
+[AFUP](http://afup.org) is an organization dedicated to networking and collaboration in the PHP developer community.
+
 We value the participation of each member of the PHP community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the organization events and at all conference events, whether officially sponsored by AFUP or not.
 
 To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any AFUP event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
@@ -68,12 +69,12 @@ Hotel/venue security and local authorities should be contacted when appropriate.
 
 ### Public statements
 
-Conference staff should not make any public statements about the behavior of individual people during or after the conference.
-In general, consult with other staff members when possible but act when necessary.
+Conference staff should not make any public statements about the behavior of individual people during or after the conference. In general, consult with other staff members when possible but act when necessary.
 
 ## Information
 At any time, for any question about this code of conduct please send an email to contact@afup.org.
 
 ## License and attribution
 This policy is licensed under the Creative Commons Zero license. It is public domain, no credit and no open licencing of your version is required.
-This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
+
+This anti-harassment policy is based on the [example policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki), created by the [Ada Initiative](https://adainitiative.org/) and other volunteers and on the [PHP UK code of conduct](http://phpconference.co.uk/conduct/).
