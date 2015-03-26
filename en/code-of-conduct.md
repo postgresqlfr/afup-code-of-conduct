@@ -11,16 +11,13 @@ AFUP events are dedicated to providing a harassment-free conference experience f
 Our anti-harassment policy can be found at:
 http://afup.org/code-of-conduct
 
-## Emergency Contacts during events
-* AFUP will publish phone number and email when the event will start !
+## PHP Tour Luxembourg Emergency Contacts
+* Phone number and email address for emergency contact will be published just prior to the beginning of the event!
 * Abbey of Neumünster Cultural Exchange Center (CCRN):	+352 / 26 20 52 – 1
 * Police Grand-Ducale: 113
 * Women in Distress: 0808 802 9999
 * Medical emergency: 112
 * Taxis: + 352 621 693 014
-
-## Contact 
-Before the event, for any question about the code of conduct please send an email to contact@afup.org.
 
 ## The Longer Version
 
@@ -74,6 +71,9 @@ Hotel/venue security and local authorities should be contacted when appropriate.
 Conference staff should not make any public statements about the behavior of individual people during or after the conference.
 In general, consult with other staff members when possible but act when necessary.
 
+## Information
+At any time, for any question about this code of conduct please send an email to contact@afup.org.
+
 ## License and attribution
-This policy is licensed under the Creative Commons Zero license . It is public domain, no credit and no open licencing of your version is required.
+This policy is licensed under the Creative Commons Zero license. It is public domain, no credit and no open licencing of your version is required.
 This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
