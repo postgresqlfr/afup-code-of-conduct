@@ -74,6 +74,8 @@ Conference staff should not make any public statements about the behavior of ind
 ## Information
 At any time, for any question about this code of conduct please send an email to contact@afup.org.
 
+You can also contribute to this code of conduct or report any issue on its [GitHub repository](https://github.com/afup/afup-code-of-conduct).
+
 ## License and attribution
 This policy is licensed under the Creative Commons Zero license. It is public domain, no credit and no open licencing of your version is required.
 
