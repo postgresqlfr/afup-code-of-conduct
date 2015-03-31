@@ -10,7 +10,7 @@ To make clear what is expected, all delegates/attendees, speakers, exhibitors, o
 AFUP events are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 Our anti-harassment policy can be found at:
-http://afup.org/code-of-conduct
+http://afup.org/pages/site/?route=code-of-condut/79
 
 ## PHP Tour Luxembourg Emergency Contacts
 * Phone number and email address for emergency contact will be published just prior to the beginning of the event!
