@@ -2,12 +2,12 @@
 
 L'[AFUP](http://afup.org) est une association dédiée à la collaboration et au réseautage au sein de la communauté des développeurs PHP.
 
-Nous attachons une importance à la participation de tous les membres de la communauté PHP et souhaitons que chaque participant vive une expérience positive. Dans cette optique, nous attendons de tous les participants qu'ils fassent preuve de respect et de courtoisie envers les autres participants tout le long des événements de l'association ainsi que pendant la durée des événements affiliés à l'AFUP.
+Nous attachons une importance à la participation de tous les membres de la communauté PHP et souhaitons que chaque participant vive une expérience positive. Dans cette optique, nous attendons de tous les participants qu'ils fassent preuve de respect et de courtoisie envers les autres participants pendant toute la durée des événements de l'association et des événements affiliés à l'AFUP.
 
 Afin de clarifier nos attentes, tous les représentants/participants, conférenciers, exposants, organisateurs et bénévoles aux événements de l'AFUP doivent se conformer au code de conduite ci-dessous. Ce code de conduite s'applique à tous les événements de l'association.
 
 ## Version courte
-Les événements de l'AFUP se veulent une expérience sans harcèlement, quelque soit votre sexe, votre orientation sexuelle, votre handicap, votre apparence physique, votre poids, votre race ou votre religion. Nous ne tolérons aucun harcèlement des participants à la conférence, quelque soit sa forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors de l'événement. Ceci inclut les conférences, les ateliers, les soirées, Twitter et les autres médias en ligne. Les participants à la conférence qui enfreignent ces règles peuvent être sanctionnés, voire exclus de la conférence sans remboursement, à la discrétion des organisateurs de la conférence.
+Les événements AFUP se veulent une expérience agréable et conviviale, ouverts à tous quelque soit le sexe, l'orientation sexuelle, l'handicap, l'apparence physique, le poids, la race ou la religion des participants. Nous ne tolérons donc aucun harcèlement ou attaque, sous aucune forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors de l'événement. Ceci inclut les conférences, les ateliers, les soirées, Twitter et les autres médias en ligne. Les participants qui enfreignent ces règles peuvent être sanctionnés, voire exclus de l'événement sans remboursement, à la discrétion de ses organisateurs.
 
 Page web de notre politique anti-harcèlement :
 http://afup.org/pages/site/?route=code-of-condut/79
@@ -17,22 +17,22 @@ http://afup.org/pages/site/?route=code-of-condut/79
 * Centre Culturel de Rencontre Abbaye de Neumünster : +352 / 26 20 52 – 1
 * Police Grand-Ducale : 113
 * Femme en détresse : 0808 802 9999
-* Urgences Médicale : 112
+* Urgences Médicales : 112
 * Taxis : + 352 621 693 014
 
-## Version moins courte
+## Version complète
 
 Le harcèlement inclut des commentaires oraux sur le sexe, l'orientation sexuelle, le handicap, l'apparence physique, le poids, la race, la religion, les images à connotation sexuelle dans des lieux publics, les intimidations délibérées, la traque, la poursuite, un harcèlement photographique ou vidéo, une suite d'interruption des conférences et des autres événements, un contact physique inapproprié et des avances sexuelles non désirées.
 
 Les sponsors sont aussi sujet à la politique anti-harcèlement. En particulier, les sponsors ne doivent pas utiliser d'images ou de matériels à connotation sexuelle. Ils ne doivent pas non plus engager d'activités à connotation sexuelle. L'équipe du stand (y compris les volontaires) ne doivent pas utiliser de vêtements, uniformes ou costumes à connotation sexuelle. Ils ne doivent pas non plus créer un environnement sexualisé.
 
-Si un participant a un comportement de harcèlement, les organisateurs de la conférence peuvent prendre toute action qui leur semble adéquate. Cela va d'un simple avertissement à l'exclusion du participant de la conférence sans remboursement.
+Si un participant a un comportement de harcèlement, les organisateurs de l'événement peuvent prendre toute décision qui leur semble adéquate. Cela va d'un simple avertissement à l'exclusion du participant de l'événement sans remboursement.
 
-Si vous vous sentez harcelé, si vous pensez que quelqu'un se fait harceler, et plus généralement en cas de problème, merci de contacter immédiatement un membre de l'organisation de l'événement. Les membres sont facilement identifiables à leur t-shirts ou par leur tour de cou personnalisés.
+Si vous vous sentez harcelé, si vous pensez que quelqu'un se fait harceler, et plus généralement en cas de problème, merci de contacter immédiatement un membre de l'organisation de l'événement. Le staff est facilement identifiable à ses t-shirts ou par ses tours de cou personnalisés.
 
-Les membres de l'organisation seront ravis d'aider les participants à contacter la sécurité de l'hôtel ou du bâtiment où se déroule l'événement, ou les forces de l'ordre, à fournir une escorte ainsi qu'à aider de toute autre façon les personnes victimes de harcèlement, pour garantir leur sécurité pendant la durée de l'événement. Votre participation à l'événement compte beaucoup pour nous.
+Les membres de l'organisation aideront volontiers les participants à contacter la sécurité de l'hôtel ou des lieux où se déroule l'événement, ou les forces de l'ordre, à fournir une escorte ainsi qu'à aider de toute autre façon les personnes victimes de harcèlement, pour garantir leur sécurité pendant la durée de l'événement. Votre participation à l'événement compte beaucoup pour nous.
 
-Nous attendons des participants qu'ils suivent ces règles dans le bâtiment des conférences et des ateliers, ainsi que pendant les événements sociaux relatifs à la conférence.
+Nous attendons des participants qu'ils suivent ces règles sur les lieux des conférences et des ateliers, ainsi que pendant les événements sociaux relatifs à la l'événement.
 
 ## Procédure en cas d'incident pour l'équipe organisatrice
 
@@ -42,11 +42,11 @@ Tout membre de l'équipe organisatrice peut émettre un avertissement oral à l'
 
 ### Présentations / Conférences
 
-Une conférence, une  présentation ou une manifestation similaire ne devrait pas être interrompue pour une simple gaffe ou des problèmes mineurs, toutefois un membre de l'équipe organisatrice doit aborder le point problématique avec l'orateur suite à l'événement. Par contre, l'équipe organisatrice doit tout mettre en œuvre pour interrompre calmement et poliment toute présentation ou manifestation qui enfreindrait régulièrement ou sérieusement ce code de conduite. Une simple phrase sans justification telle que « Nous sommes désolé mais cette présentation ne peut continuer en l'état actuel. » est suffisante.
+Une conférence, une  présentation ou une manifestation similaire ne devrait pas être interrompue pour une légère infraction à cette charte ou des problèmes mineurs, toutefois un membre de l'équipe organisatrice doit aborder le point problématique avec l'orateur suite à l'événement. Par contre, l'équipe organisatrice doit tout mettre en œuvre pour interrompre calmement et poliment toute présentation ou manifestation qui enfreindrait régulièrement ou sérieusement ce code de conduite. Une simple phrase sans justification telle que « Nous sommes désolés mais cette présentation ne peut continuer en l'état actuel. » est suffisante.
 
 ### Comptes rendus
 
-Dans le cas où une personne viendrait rapporter un incident, il est prudent de noter les faits énoncés. Il faut assurer à la victime qu'elle est prise au sérieux en évitant des promesses sur les mesures qui pourraient être prises par l'organisation. Si la personne n'a pas initié la demande, il faut rassembler le maximum d'informations (tels que le moment et le lieu) sans la contraindre si celle-ci est réticente. Même dans le cas où le compte rendu ne contient pas tous les points importants telle que l'identité de la personne à l'origine du harcèlement, il doit être consigné et communiqué à un membre approprié de l'équipe organisatrice. Si la personne le souhaite, il peut être prévu de la faire accompagner par un membre de l'organisation ou une personne de confiance, ou encore de contacter un ami ou les forces de l'ordre. Il ne faut pas forcer la personne ayant subit le harcèlement à prendre des mesures contre leur gré. Afin de respecter la vie privée de la personne, la diffusion inutile de détails à des tiers qui n'ont pas été impliqués ou à des membres ne faisant pas parti de l'organisation doit être évitée.
+Dans le cas où une personne viendrait rapporter un incident, il est prudent de noter les faits énoncés. Il faut assurer à la victime qu'elle est prise au sérieux en évitant des promesses sur les mesures qui pourraient être prises par l'organisation. Si la personne n'a pas initié la demande, il faut rassembler le maximum d'informations (tels que le moment et le lieu) sans la contraindre si celle-ci est réticente. Même dans le cas où le compte rendu ne contient pas tous les points importants telle que l'identité de la personne à l'origine du harcèlement, il doit être consigné et communiqué à un membre approprié de l'équipe organisatrice. Si la personne le souhaite, il peut être convenu de la faire accompagner par un membre de l'organisation ou une personne de confiance, ou encore de contacter un ami ou les forces de l'ordre. Il ne faut pas forcer la personne ayant subi le harcèlement à prendre des mesures contre leur gré. Afin de respecter la vie privée de la personne, la diffusion inutile de détails à des tiers qui n'ont pas été impliqués ou à des membres ne faisant pas partie de l'organisation doit être évitée.
 
 Dans la mesure du possible, le compte rendu doit contenir :
 * Les informations permettant l'identification du participant en faute (nom, numéro de badge…)
@@ -64,13 +64,14 @@ L'organisation se réserve le droit d'exclure tout participant quelque soit la r
 * Persister dans le harcèlement malgré une consigne d'arrêt immédiat
 * Une démonstration évidente de harcèlement, avec ou sans avertissement
 * Une simple infraction sérieuse (par exemple, violence ou contacts physiques inappropriés)
-* Une simple infraction intentionnelle (photographie sous une jupe)
+* Une simple infraction intentionnelle (exemple: une photo sous une jupe)
+
 Les autorités locales, la salle ou l'hôtel peuvent être contactés en cas de besoin.
 
 
 ### Déclaration publique
 
-Sauf raison majeure, l'équipe organisatrice n'a pas à faire de déclaration publique sur le comportement d'individus pendant ou après l'événement. De manière générale, n'hésitez pas à consulter les membres de l'organisation dès que possible mais agissez en cas de besoin.
+Sauf raison majeure, l'équipe organisatrice n'a pas à faire de déclaration publique sur le comportement d'individus pendant ou après l'événement. De manière générale, n'hésitez pas à consulter les membres de l'organisation dès que possible mais n'agissez qu'en cas de besoin.
 
 ## Informations
 
