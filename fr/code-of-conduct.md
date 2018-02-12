@@ -28,7 +28,7 @@ sanctionnés, voire exclus de l'événement sans remboursement, à la discrétio
 ses organisateurs.
 
 
-## Contact en cas d'incident lors du PG Day France 2018 à Marseilles
+## Contact en cas d'incident lors du PG Day France 2018 à Marseille
 
 Une adresse email ainsi qu'un numéro de téléphone à contacter en cas d'urgence 
 seront publiés avant le début de l'événement.
@@ -153,7 +153,7 @@ Pour toute question concernant ce code de conduite, merci d'envoyer un courrier
 Il est possible de contribuer à ce code de conduite ou de rapporter une erreur 
 via le repo [GitHub](https://github.com/postgresqlfr/code-of-conduct).
 
-## Licence and attribution
+## License et attribution
 
 Ce code de conduite est publié sous licence Commons Zero et fait partie du 
 domaine public. Aucune attribution ou licence ouverte ne sont requises pour 
