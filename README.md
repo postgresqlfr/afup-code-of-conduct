@@ -25,7 +25,7 @@ tag may be added after the event took place. Although there's no official syntax
 for those, a tag should be explicit.
 
 ```
-2018-06-pgday-france-marseilles
+2018-06-pgday-france-marseille
 ```
 
 ### Structure of document
