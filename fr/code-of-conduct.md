@@ -30,10 +30,12 @@ ses organisateurs.
 
 ## Contact en cas d'incident lors du PG Day France 2018 à Marseille
 
-Une adresse email ainsi qu'un numéro de téléphone à contacter en cas d'urgence
-seront publiés avant le début de l'événement.
+Ci-dessous les points de contact pour signaler un problème  pendant ou après 
+l'événement :
 
-* FIXME
+* 06 74 15 56 78
+* <contact@pgday.fr>
+ 
 
 ## Version complète
 
